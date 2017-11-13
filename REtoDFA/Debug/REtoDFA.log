@@ -1,0 +1,4 @@
+﻿  NFA2DFA.cpp
+e:\study\compiler\retodfa\retodfa\nfa2dfa.cpp(8): warning C4101: “id”: 未引用的局部变量
+  REtoDFA.vcxproj -> E:\Study\Compiler\REtoDFA\Debug\REtoDFA.exe
+  REtoDFA.vcxproj -> E:\Study\Compiler\REtoDFA\Debug\REtoDFA.pdb (Partial PDB)
